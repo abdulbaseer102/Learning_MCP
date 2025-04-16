@@ -1,4 +1,4 @@
-# Model Context Protocol(MCP)
+# Model Context Protocol (MCP)
 
 ## Overview
 Model Context Protocol (MCP) is a framework designed to enhance AI agent capabilities by providing structured context management, memory retention, and efficient API interactions. It plays a crucial role in Agentic AI, allowing models to maintain contextual awareness over multiple interactions.
